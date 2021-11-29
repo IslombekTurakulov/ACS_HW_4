@@ -1,0 +1,7 @@
+Container is store 6 languages:
+This is OOP: name = dfgdfg  year = 1925  popularity = 35.0 has abstract variables = 1 legacy = SINGLE, Calculation = 320.83
+This is OOP: name = qweqw  year = 1999  popularity = 65.0 has abstract variables = 0 legacy = INTERFACE, Calculation  = 399.8
+This is OOP: name = werwer  year = 2006  popularity = 54.0 has abstract variables = 0 legacy = MULTIPLE, Calculation  = 334.33
+This is OOP: name = cxvxc  year = 2019  popularity = 96.0 has abstract variables = 1 legacy = SINGLE, Calculation = 403.8
+This is OOP: name = zxc  year = 2014  popularity = 24.0 has abstract variables = 0 legacy = INTERFACE, Calculation = 671.33
+This is OOP: name = qwerty  year = 2005  popularity = 12.0 has abstract variables = 0 legacy = SINGLE, Calculation = 334.17

@@ -1,0 +1,27 @@
+Running functional.txt
+==> Start
+Source:  0.00015  seconds
+Sorted:  0.00015  seconds
+==> Finish
+functional.txt Test done
+
+Running object_oriented.txt
+==> Start
+Source:  0.0001  seconds
+Sorted:  0.0003  seconds
+==> Finish
+object_oriented Test done
+
+Running procedural.txt
+==> Start
+Source:  0.0001  seconds
+Sorted:  0.0002  seconds
+==> Finish
+procedural.txt Test done
+
+Running mixed.txt
+==> Start
+Source:  0.00084  seconds
+Sorted:  0.00084  seconds
+==> Finish
+mixed.txt Test done

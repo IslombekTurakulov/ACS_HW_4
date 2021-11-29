@@ -1,0 +1,100 @@
+Container is store 100 languages:
+This is Procedural: name = LDBUTDVAIT  year = 1945  popularity = 68.21 abstract variables = False, Calculation = 194.5
+This is Procedural: name = CRZEUGHKZE  year = 1945  popularity = 51.89 abstract variables = False, Calculation = 194.5
+This is Procedural: name = GNBYZWYVMZ  year = 1993  popularity = 52.3 abstract variables = True, Calculation = 199.3
+This is Procedural: name = VLBBKSSSIB  year = 2011  popularity = 20.08 abstract variables = False, Calculation = 201.1
+This is Object Oriented: name = EIHAVJUPXY  year = 1989  popularity = 40.62 abstract variables = False legacy = SINGLE, Calculation = 198.9
+This is Functional: name = HRFFFIXBOV  year = 2017  popularity = 28.46 lazy calculation = True legacy = STRICT, Calculation = 201.7
+This is Object Oriented: name = VELIMXRLJS  year = 1999  popularity = 85.68 abstract variables = True legacy = MULTIPLE, Calculation = 199.9
+This is Procedural: name = QWSJXEQMCL  year = 1979  popularity = 68.47 abstract variables = True, Calculation = 197.9
+This is Object Oriented: name = GVWOJASKWF  year = 1949  popularity = 17.72 abstract variables = False legacy = MULTIPLE, Calculation = 194.9
+This is Procedural: name = YRGHCLYWFP  year = 2010  popularity = 55.85 abstract variables = True, Calculation = 201.0
+This is Object Oriented: name = HSJQOBHQFI  year = 1957  popularity = 46.77 abstract variables = False legacy = MULTIPLE, Calculation = 195.7
+This is Procedural: name = KBDYLUBJZY  year = 1969  popularity = 89.5 abstract variables = True, Calculation = 196.9
+This is Object Oriented: name = EPBPVOXLWJ  year = 1965  popularity = 86.4 abstract variables = False legacy = MULTIPLE, Calculation = 196.5
+This is Object Oriented: name = RQYKYERHBP  year = 2003  popularity = 24.9 abstract variables = False legacy = SINGLE, Calculation = 200.3
+This is Procedural: name = DENEJDFHQB  year = 2002  popularity = 48.54 abstract variables = True, Calculation = 200.2
+This is Procedural: name = TNYCPWVBRS  year = 1945  popularity = 81.65 abstract variables = True, Calculation = 194.5
+This is Procedural: name = KYXODMWVHN  year = 1969  popularity = 42.34 abstract variables = False, Calculation = 196.9
+This is Functional: name = ZURXMHXJUS  year = 1953  popularity = 64.64 lazy calculation = False legacy = ERROR, Calculation = 195.3
+This is Procedural: name = WPIROOAXQS  year = 1970  popularity = 71.68 abstract variables = True, Calculation = 197.0
+This is Object Oriented: name = ZQYUQTQOZO  year = 1964  popularity = 20.07 abstract variables = True legacy = MULTIPLE, Calculation = 196.4
+This is Procedural: name = YQJWQFCUQS  year = 1984  popularity = 74.64 abstract variables = True, Calculation = 198.4
+This is Functional: name = PEJLQOFPGG  year = 1969  popularity = 54.87 lazy calculation = True legacy = ERROR, Calculation = 196.9
+This is Functional: name = BZECLYEPPT  year = 2000  popularity = 30.13 lazy calculation = False legacy = DYNAMIC, Calculation = 200.0
+This is Procedural: name = IGRCMBIWSV  year = 1992  popularity = 1.98 abstract variables = False, Calculation = 199.2
+This is Object Oriented: name = NSWVCVBGFQ  year = 1990  popularity = 42.96 abstract variables = False legacy = MULTIPLE, Calculation = 199.0
+This is Object Oriented: name = LEKKAYXQXB  year = 1977  popularity = 17.79 abstract variables = True legacy = SINGLE, Calculation = 197.7
+This is Functional: name = YPAZGKBGWB  year = 1951  popularity = 22.75 lazy calculation = False legacy = STRICT, Calculation = 195.1
+This is Object Oriented: name = WSRXUSNLIU  year = 1966  popularity = 56.76 abstract variables = False legacy = MULTIPLE, Calculation = 196.6
+This is Procedural: name = PANQKOFFZH  year = 2017  popularity = 41.2 abstract variables = True, Calculation = 201.7
+This is Functional: name = ZMSYQWBFRH  year = 1947  popularity = 53.8 lazy calculation = True legacy = DYNAMIC, Calculation = 194.7
+This is Object Oriented: name = YGHEIVTIJZ  year = 1989  popularity = 30.22 abstract variables = False legacy = MULTIPLE, Calculation = 198.9
+This is Functional: name = OVDFUGPNAK  year = 1992  popularity = 79.1 lazy calculation = False legacy = ERROR, Calculation = 199.2
+This is Object Oriented: name = JSKGMWHLRH  year = 1965  popularity = 89.54 abstract variables = True legacy = MULTIPLE, Calculation = 196.5
+This is Object Oriented: name = PEHQDUBEBV  year = 1968  popularity = 52.88 abstract variables = True legacy = SINGLE, Calculation = 196.8
+This is Object Oriented: name = FIWETEYZZI  year = 1988  popularity = 79.45 abstract variables = False legacy = MULTIPLE, Calculation = 198.8
+This is Procedural: name = QNSSEMSPGR  year = 1992  popularity = 11.2 abstract variables = False, Calculation = 199.2
+This is Functional: name = HADMOUGHAY  year = 2014  popularity = 69.5 lazy calculation = False legacy = ERROR, Calculation = 201.4
+This is Functional: name = XKNAGITVTE  year = 1972  popularity = 11.65 lazy calculation = True legacy = DYNAMIC, Calculation = 197.2
+This is Procedural: name = HBKLJLKJYE  year = 2002  popularity = 52.23 abstract variables = True, Calculation = 200.2
+This is Functional: name = KACJUHDNPZ  year = 1998  popularity = 8.8 lazy calculation = False legacy = STRICT, Calculation = 199.8
+This is Procedural: name = HMZPRIOGQA  year = 2005  popularity = 13.35 abstract variables = False, Calculation = 200.5
+This is Procedural: name = OLDRCLVILS  year = 2003  popularity = 43.34 abstract variables = False, Calculation = 200.3
+This is Procedural: name = EZCPGUKCMC  year = 1989  popularity = 34.99 abstract variables = True, Calculation = 198.9
+This is Procedural: name = QRRKSWVNTR  year = 1969  popularity = 6.39 abstract variables = False, Calculation = 196.9
+This is Procedural: name = OWCMTCJCLC  year = 1984  popularity = 55.76 abstract variables = False, Calculation = 198.4
+This is Functional: name = AGXZQRHGQX  year = 2003  popularity = 16.01 lazy calculation = True legacy = ERROR, Calculation = 200.3
+This is Functional: name = TZRCAEFORK  year = 1998  popularity = 59.02 lazy calculation = False legacy = ERROR, Calculation = 199.8
+This is Object Oriented: name = TOFGPTUTBU  year = 1983  popularity = 3.89 abstract variables = False legacy = MULTIPLE, Calculation = 198.3
+This is Object Oriented: name = YFOJMKKRZW  year = 2001  popularity = 87.32 abstract variables = False legacy = SINGLE, Calculation = 200.1
+This is Procedural: name = NGYUSJAMYN  year = 1992  popularity = 62.61 abstract variables = True, Calculation = 199.2
+This is Functional: name = PAXBWBCPQG  year = 1988  popularity = 15.99 lazy calculation = False legacy = ERROR, Calculation = 198.8
+This is Object Oriented: name = IDGJPPPCYK  year = 2014  popularity = 52.98 abstract variables = False legacy = SINGLE, Calculation = 201.4
+This is Procedural: name = ZVZJDXKWJR  year = 1949  popularity = 49.19 abstract variables = True, Calculation = 194.9
+This is Object Oriented: name = SBJSXMUNYQ  year = 1985  popularity = 8.87 abstract variables = False legacy = MULTIPLE, Calculation = 198.5
+This is Functional: name = LWHKFXMFLE  year = 1963  popularity = 85.58 lazy calculation = False legacy = DYNAMIC, Calculation = 196.3
+This is Object Oriented: name = HWRAHXVGPW  year = 2017  popularity = 34.52 abstract variables = False legacy = SINGLE, Calculation = 201.7
+This is Functional: name = CHHBMIBDZM  year = 1966  popularity = 45.78 lazy calculation = True legacy = DYNAMIC, Calculation = 196.6
+This is Functional: name = ETBBVKYYGS  year = 1989  popularity = 74.0 lazy calculation = False legacy = DYNAMIC, Calculation = 198.9
+This is Procedural: name = MNZABIQFNM  year = 1970  popularity = 20.07 abstract variables = True, Calculation = 197.0
+This is Object Oriented: name = HNCLYSPPCV  year = 2019  popularity = 26.31 abstract variables = False legacy = MULTIPLE, Calculation = 201.9
+This is Functional: name = GOEOTZYYKA  year = 1977  popularity = 57.71 lazy calculation = False legacy = DYNAMIC, Calculation = 197.7
+This is Object Oriented: name = SOLKGQQLOJ  year = 2005  popularity = 47.91 abstract variables = True legacy = MULTIPLE, Calculation = 200.5
+This is Object Oriented: name = BUVIAPHSRG  year = 1951  popularity = 75.33 abstract variables = False legacy = MULTIPLE, Calculation = 195.1
+This is Object Oriented: name = DOILFMNOEG  year = 1969  popularity = 52.89 abstract variables = False legacy = MULTIPLE, Calculation = 196.9
+This is Object Oriented: name = UJLBHRCRVH  year = 1969  popularity = 98.31 abstract variables = False legacy = MULTIPLE, Calculation = 196.9
+This is Procedural: name = MGJNYKEQQX  year = 1997  popularity = 37.37 abstract variables = False, Calculation = 199.7
+This is Procedural: name = YOFEHXMFUU  year = 1950  popularity = 16.36 abstract variables = True, Calculation = 195.0
+This is Procedural: name = OCTYUQXZKO  year = 1962  popularity = 70.42 abstract variables = False, Calculation = 196.2
+This is Functional: name = JXMSHYPRKR  year = 1954  popularity = 51.64 lazy calculation = False legacy = ERROR, Calculation = 195.4
+This is Object Oriented: name = KHTNSKVZKK  year = 1992  popularity = 47.13 abstract variables = True legacy = SINGLE, Calculation = 199.2
+This is Object Oriented: name = LBFUVCPDUA  year = 1959  popularity = 96.95 abstract variables = True legacy = SINGLE, Calculation = 195.9
+This is Procedural: name = SVUDFVCVPI  year = 1947  popularity = 15.04 abstract variables = True, Calculation = 194.7
+This is Object Oriented: name = UUNFRQPNZB  year = 1984  popularity = 14.75 abstract variables = True legacy = SINGLE, Calculation = 198.4
+This is Object Oriented: name = VGAVMCCAFA  year = 2019  popularity = 22.64 abstract variables = True legacy = SINGLE, Calculation = 201.9
+This is Object Oriented: name = KERMOCYMVM  year = 1993  popularity = 49.27 abstract variables = True legacy = MULTIPLE, Calculation = 199.3
+This is Functional: name = IVHZEVSRDC  year = 1976  popularity = 56.41 lazy calculation = True legacy = DYNAMIC, Calculation = 197.6
+This is Object Oriented: name = JHUGQUKIDE  year = 1990  popularity = 35.22 abstract variables = False legacy = SINGLE, Calculation = 199.0
+This is Procedural: name = GJYLLDJINY  year = 2012  popularity = 12.61 abstract variables = False, Calculation = 201.2
+This is Procedural: name = PEAARIWJSG  year = 2016  popularity = 94.67 abstract variables = False, Calculation = 201.6
+This is Procedural: name = OBRGPCRZNG  year = 1970  popularity = 94.85 abstract variables = False, Calculation = 197.0
+This is Procedural: name = EYLCNEONRV  year = 1986  popularity = 8.92 abstract variables = True, Calculation = 198.6
+This is Functional: name = TZDKDMBGCR  year = 1948  popularity = 62.83 lazy calculation = True legacy = ERROR, Calculation = 194.8
+This is Object Oriented: name = RAGHHJYKVO  year = 1951  popularity = 39.66 abstract variables = False legacy = SINGLE, Calculation = 195.1
+This is Functional: name = IOKINIJQOP  year = 1948  popularity = 54.89 lazy calculation = True legacy = ERROR, Calculation = 194.8
+This is Object Oriented: name = BEGGBGOGQE  year = 1980  popularity = 51.91 abstract variables = False legacy = SINGLE, Calculation = 198.0
+This is Procedural: name = JRAPIOSGCG  year = 2001  popularity = 96.23 abstract variables = True, Calculation = 200.1
+This is Object Oriented: name = JMCCHHWRFG  year = 2006  popularity = 90.58 abstract variables = False legacy = SINGLE, Calculation = 200.6
+This is Functional: name = CDKEIEMWER  year = 1947  popularity = 56.07 lazy calculation = False legacy = ERROR, Calculation = 194.7
+This is Object Oriented: name = GYGWQDPTIE  year = 1953  popularity = 59.64 abstract variables = False legacy = SINGLE, Calculation = 195.3
+This is Procedural: name = OXBFWHOBRG  year = 2017  popularity = 40.61 abstract variables = False, Calculation = 201.7
+This is Object Oriented: name = WLFHTWGTUF  year = 1990  popularity = 66.44 abstract variables = True legacy = SINGLE, Calculation = 199.0
+This is Functional: name = NPSBZXUQIU  year = 2007  popularity = 71.51 lazy calculation = False legacy = ERROR, Calculation = 200.7
+This is Functional: name = QZTVGFDDIN  year = 2020  popularity = 59.95 lazy calculation = False legacy = STRICT, Calculation = 202.0
+This is Procedural: name = UAQPDDCOAP  year = 2015  popularity = 27.67 abstract variables = True, Calculation = 201.5
+This is Object Oriented: name = OAKGNIARZX  year = 1992  popularity = 61.09 abstract variables = True legacy = MULTIPLE, Calculation = 199.2
+This is Procedural: name = RXDJBHKQKA  year = 2019  popularity = 47.87 abstract variables = False, Calculation = 201.9
+This is Functional: name = MWVCACBVCE  year = 1956  popularity = 18.72 lazy calculation = True legacy = ERROR, Calculation = 195.6
+This is Procedural: name = ZPXKQFNIYY  year = 2007  popularity = 78.49 abstract variables = False, Calculation = 200.7
+This is Object Oriented: name = MDJBNCOWZX  year = 1950  popularity = 60.13 abstract variables = True legacy = MULTIPLE, Calculation = 195.0

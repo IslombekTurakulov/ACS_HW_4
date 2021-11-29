@@ -1,0 +1,7 @@
+Container is store 6 languages:
+This is Procedural: name = sdfsd  year = 1996  popularity = 25.0 has abstract variables = 1, Calculation = 399.2
+This is Procedural: name = reter  year = 2005  popularity = 52.0 has abstract variables = 0, Calculation = 401.0
+This is Procedural: name = vbnbvn  year = 2352  popularity = 66.0 has abstract variables = 1, Calculation = 392.0
+This is Procedural: name = hgjgh  year = 1996  popularity = 66.0 has abstract variables = 1, Calculation = 399.2
+This is Procedural: name = ghfhgf  year = 1875  popularity = 65.0 has abstract variables = 0, Calculation = 312.5
+This is Procedural: name = vcbvc  year = 2015  popularity = 76.0 has abstract variables = 0, Calculation = 403.0

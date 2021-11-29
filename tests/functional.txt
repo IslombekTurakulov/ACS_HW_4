@@ -1,0 +1,5 @@
+0 asytryd 1234 dynamic
+0 ds 435 strict
+0 gjf 754 dynamic
+0 dfgfd 754 strict
+0 fd43gdf 3452 dynamic

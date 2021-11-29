@@ -1,0 +1,12 @@
+0 Funclang1 1924 dynamic
+0 Funclang2 1942 dynamic
+1 object_oriented1 1980 single
+1 object_oriented2 1991 interface
+1 object_oriented3 1990 interface
+2 ProcLang3 1951 24 
+2 ProcLang4 1952 41 
+0 FuncLang3 1954 55 dynamic
+0 FuncLang4 1952 44 dynamic
+1 object_oriented4 1980 interface
+1 object_oriented5 1991 interface
+1 object_oriented6 1990 single
